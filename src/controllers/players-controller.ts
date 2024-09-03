@@ -1,6 +1,5 @@
 import { Request, Response } from "express";
 import * as service from "../services/players-service";
-import { NoContent } from "../utils/http-helper";
 import { StatisticsModel } from "../models/statistics-model";
 
 export const getPlayer = async (req: Request, res: Response) => {
