@@ -1,4 +1,4 @@
-# Football API
+# Soccer API
 
 Este projeto é uma API desenvolvida em TypeScript usando Express.js para gerenciar informações relacionadas a clubes e jogadores de futebol. 
 A API fornece endpoints para realizar operações CRUD (Create, Read, Update, Delete) em jogadores e clubes, utilizando serviços e repositórios 
